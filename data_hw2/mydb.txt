@@ -1,0 +1,1 @@
+title	varchar	author	varchar	id	int	id	int	name	varchar	phone	int	
